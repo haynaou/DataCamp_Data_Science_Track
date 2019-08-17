@@ -1,5 +1,5 @@
 # DataCamp_Data_Science_Track 
-Materials and assignments for DataCamp Data Science Track
+Materials, assignments and statements of accomplishment for DataCamp Data Science Track
 
 ### Course 01: Introduction to Python
 1. Python Basics
